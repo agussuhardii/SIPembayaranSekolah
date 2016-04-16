@@ -437,7 +437,13 @@ ul.drop-down li {
     margin-bottom: 30px;
     font-weight: 700;
     text-transform: uppercase;
+    color: #f43a2c;
 }
+.intro-text{
+    background-color: #dadada;
+    color: #080808;
+}
+
 /*-------------------------------------------------*/
 /* =  4. About
 /*-------------------------------------------------*/
